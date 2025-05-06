@@ -1,3 +1,3 @@
-FROM typesense/typesense:latest
+FROM typesense/typesense
 
 EXPOSE 8108
